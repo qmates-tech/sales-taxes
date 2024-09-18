@@ -1,4 +1,4 @@
-# Sales taxes kata
+# Sales taxes kataA
 On each purchase governments impose sales taxes that depend on many criteria like:
  - article category
  - article origin (when different from the country in which the article is sold)
@@ -89,4 +89,3 @@ Design and implement a solution that prints the receipt for a purchase and demon
  - Keep it simple: do not use third-party libraries apart for unit testing and, if needed, mocking frameworks (no Web, ORM, DI)
  - Use any mechanism to provide input (hard coded data within a unit test is ok)
  - Fulfill at least the scenarios provided in the example above
-# sales-taxes
