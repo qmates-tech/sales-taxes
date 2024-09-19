@@ -1,4 +1,4 @@
-# Sales taxes kataA
+# Sales taxes kata
 On each purchase governments impose sales taxes that depend on many criteria like:
  - article category
  - article origin (when different from the country in which the article is sold)
